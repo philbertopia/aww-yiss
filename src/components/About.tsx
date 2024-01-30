@@ -26,7 +26,7 @@ export default function About() {
                         <Image 
                             className="py-10"
                             src="/yiss-logo.png"
-                            alt="Motha fucking breadcrumbs"
+                            alt="Motha fuckin breadcrumbs"
                             width={100}
                             height={100}
                         />
@@ -82,7 +82,7 @@ export default function About() {
                             <Image 
                                 className="mr-5"
                                 src="/breadcrumbs.png"
-                                alt="Motha fucking breadcrumbs"
+                                alt="Motha fuckin breadcrumbs"
                                 width={40}
                                 height={40}
                             />
